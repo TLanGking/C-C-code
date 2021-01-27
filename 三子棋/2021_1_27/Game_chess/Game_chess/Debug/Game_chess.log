@@ -1,0 +1,7 @@
+﻿  chess_game.c
+C:\C——Project\Game_chess\Game_chess\chess_game.c(86,22): warning C4013: “time”未定义；假设外部返回 int
+  chess_main.c
+C:\C——Project\Game_chess\Game_chess\chess_main.c(21,17): warning C4013: “Game”未定义；假设外部返回 int
+  正在生成代码...
+C:\C——Project\Game_chess\Game_chess\chess_game.c(82): warning C4715: “assignment”: 不是所有的控件路径都返回值
+  Game_chess.vcxproj -> C:\C——Project\Game_chess\Debug\Game_chess.exe
