@@ -31,7 +31,7 @@
 ////    }
 ////字符串读写
 ////
-////    char s1[50]="我吊你妈的";
+////    char s1[50]="这波操作就很骚";
 ////    FILE* p3= fopen("/storage/emulated/0/A_C-Project/test.txt","w");
 ////    if(p3)
 ////    {
