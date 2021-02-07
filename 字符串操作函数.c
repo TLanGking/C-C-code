@@ -40,7 +40,7 @@
 ////   int ret3 =  strncmp(arr,arr8,  3);
 //
 ////    在字符串中寻找指定符号(标记)
-////    char w[100] =  "卧槽您您是大傻逼.卧槽!666.";
+////    char w[100] =  "hello,world.";
 ////    char w1[100] ={0};
 ////    strcpy(w1,w);
 ////    char* pw = strtok(w1,",!");
